@@ -1,0 +1,7 @@
+c:\users\vi\documents\visual studio 2012\Projects\MakeAnAppointmentConsole\MakeAnAppointmentConsole\obj\Debug\MakeAnAppointmentConsole.csprojResolveAssemblyReference.cache
+c:\users\vi\documents\visual studio 2012\Projects\MakeAnAppointmentConsole\MakeAnAppointmentConsole\bin\Debug\MakeAnAppointmentConsole.exe
+c:\users\vi\documents\visual studio 2012\Projects\MakeAnAppointmentConsole\MakeAnAppointmentConsole\bin\Debug\MakeAnAppointmentConsole.pdb
+c:\users\vi\documents\visual studio 2012\Projects\MakeAnAppointmentConsole\MakeAnAppointmentConsole\obj\Debug\MakeAnAppointmentConsole.exe
+c:\users\vi\documents\visual studio 2012\Projects\MakeAnAppointmentConsole\MakeAnAppointmentConsole\obj\Debug\MakeAnAppointmentConsole.pdb
+c:\users\vi\documents\visual studio 2012\Projects\MakeAnAppointmentConsole\MakeAnAppointmentConsole\bin\Debug\ScheduleDataGenerator.dll
+c:\users\vi\documents\visual studio 2012\Projects\MakeAnAppointmentConsole\MakeAnAppointmentConsole\bin\Debug\ScheduleDataGenerator.pdb
